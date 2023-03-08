@@ -1,16 +1,18 @@
-### Hi there 👋
+# Bienvenido a mi perfil de GitHub
 
-<!--
-**murapa96/murapa96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola a todos! 👋
 
-Here are some ideas to get you started:
+Mi nombre es murapa96 y soy un desarrollador de software apasionado y autodidacta. Tengo experiencia en diferentes lenguajes de programación, como Python, Java, JavaScript, C y C++. Me encanta crear aplicaciones web y móviles que resuelvan problemas del mundo real y mejoren la vida de las personas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis habilidades
+
+- Desarrollo de aplicaciones web con Flask, Django, React y Vue.js, Angular...
+- Desarrollo de aplicaciones móviles con React Native, Ionic y Flutter
+- Análisis de datos con Python y herramientas como Pandas, Numpy y Matplotlib
+- Bases de datos relacionales y no relacionales como MySQL, PostgreSQL, MongoDB y Firebase
+- Automatización de procesos con Python y herramientas como Selenium y BeautifulSoup
+
+
+## Cómo contactarme
+
+Si desea ponerse en contacto conmigo, no dude en enviarme un mensaje en mi correo electrónico o a través de mi perfil en GitHub. ¡Me encantaría colaborar contigo!
