@@ -1,7 +1,5 @@
 # Bienvenido a mi perfil de GitHub
 
-¡Hola a todos! 👋
-
 Mi nombre es murapa96 y soy un desarrollador de software apasionado y autodidacta. Tengo experiencia en diferentes lenguajes de programación, como Python, Java, JavaScript, C y C++. Me encanta crear aplicaciones web y móviles que resuelvan problemas del mundo real y mejoren la vida de las personas.
 
 ## Mis habilidades
