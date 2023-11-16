@@ -11,6 +11,12 @@
 
 💡 **Collaborations and Opportunities**: I am always on the lookout for exciting collaborations and challenging opportunities. If you have an idea or project where you think I can contribute, let's talk!
 
-📬 **Contact**: Find me on [GitHub](Your-GitHub-Profile-Link), [Twitter](Your-Twitter-Link), [Instagram](Your-Instagram-Link) or send me an email at [your-email@domain.com](mailto:your-email@domain.com).
+📬 **Contact**: 
+   - GitHub: [Murapa96](https://github.com/Murapa96)
+   - Twitter: [@MurapaBytes](https://twitter.com/MurapaBytes)
+   - Instagram: [@murapabytes](https://www.instagram.com/murapabytes/)
+   - Web: [murapa.me](https://murapa.me)
+   - Email: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
 
 🌟 **Let's Create the Future Together**: Join me on this technological journey where each line of code brings us closer to a more thrilling and possibility-filled tomorrow.
+
