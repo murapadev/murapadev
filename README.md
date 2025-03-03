@@ -1,6 +1,6 @@
 # Hello, I'm Pablo R. (murapa96) 👋
 
-> *"Innovation distinguishes between a leader and a follower." – Steve Jobs*
+> *"Talk is cheap. Show me the code." – Linus Torvalds*
 
 ## About Me
 I'm a self-taught software developer with a passion for creating scalable solutions and transforming complex challenges into actionable insights. With hands-on experience in web & mobile development, data analytics, and automation, I thrive on using technology to solve real-world problems and unlock new possibilities.
@@ -26,6 +26,8 @@ I'm a self-taught software developer with a passion for creating scalable soluti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murapa96&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+## 📈 GitHub Activity
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Murapa96&theme=radical" alt="GitHub Streak Stats" />
 
 ## 🌟 Let's Build the Future Together
 I'm always open to exciting projects, collaborations, or simply chatting about innovative tech ideas. Whether you're looking for a developer, consultant, or partner, feel free to reach out!
@@ -36,4 +38,3 @@ I'm always open to exciting projects, collaborations, or simply chatting about i
 - **Instagram**: [@murapabytes](https://www.instagram.com/murapabytes/)
 - **Website**: [murapa.me](https://murapa.me)
 - **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
-- **Telegram**: [@murapa96](https://t.me/murapa96)
