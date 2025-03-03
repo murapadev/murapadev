@@ -1,25 +1,41 @@
-### 👋 Hello, I'm Pablo R. (murapa96)
+# Hello, I'm Pablo R. (murapa96) 👋
 
-🔍 **About Me**:  
-I am a dedicated and self-taught software developer with a strong passion for bringing innovative ideas to life. With experience in developing both web and mobile applications, I specialize in data analysis and automation, transforming complex challenges into scalable and effective solutions. I am motivated by the potential of technology to address real-world problems and unlock new possibilities for the future.
+> *"Innovation distinguishes between a leader and a follower." – Steve Jobs*
 
-🌐 **Technical Expertise**:
-- **Web Development**: Skilled in frameworks like Flask, Django, React, Vue.js, and Angular
-- **Mobile Development**: Building dynamic mobile experiences with React Native, Ionic, and Flutter
-- **Data Analytics**: Proficient in Python, Pandas, Numpy, and Matplotlib
-- **Database Management**: Expertise in MySQL, PostgreSQL, MongoDB, and Firebase
-- **Automation Tools**: Experience with Selenium and BeautifulSoup for process optimization
+## About Me
+I'm a self-taught software developer with a passion for creating scalable solutions and transforming complex challenges into actionable insights. With hands-on experience in web & mobile development, data analytics, and automation, I thrive on using technology to solve real-world problems and unlock new possibilities.
 
-💡 **Looking for Opportunities**:  
-I am always eager to collaborate on exciting projects or explore new challenges in the tech space. Whether it's consulting, development work, or forming partnerships, feel free to reach out.
+## 🚀 Technical Expertise
+- **Web Development**: Crafting robust applications using Flask, Django, React, Vue.js, and Angular.
+- **Mobile Development**: Building dynamic mobile experiences with React Native, Ionic, and Flutter.
+- **Data Analytics**: Turning raw data into insights with Python, Pandas, Numpy, and Matplotlib.
+- **Database Management**: Working with MySQL, PostgreSQL, MongoDB, and Firebase.
+- **Automation Tools**: Streamlining processes with Selenium and BeautifulSoup.
 
-📬 **Connect with Me**:  
-   - GitHub: [Murapa96](https://github.com/Murapa96)  
-   - Twitter: [@MurapaBytes](https://twitter.com/MurapaBytes)  
-   - Instagram: [@murapabytes](https://www.instagram.com/murapabytes/)  
-   - Website: [murapa.me](https://murapa.me)  
-   - Email: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
+## 🔧 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+<!-- Add more badges as needed -->
 
-🌟 **Let’s Build the Future Together**:  
-I believe in the power of technology to shape a better tomorrow. Let’s collaborate and create solutions that push boundaries and drive innovation.
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Murapa96&show_icons=true&theme=radical" alt="Pablo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murapa96&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+## 📈 GitHub Activity
+<!-- You can add your GitHub streak stats or activity graph below -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Murapa96&theme=radical" alt="GitHub Streak Stats" />
+
+## 🌟 Let's Build the Future Together
+I'm always open to exciting projects, collaborations, or simply chatting about innovative tech ideas. Whether you're looking for a developer, consultant, or partner, feel free to reach out!
+
+## 📬 Connect with Me
+- **GitHub**: [Murapa96](https://github.com/Murapa96)
+- **Twitter**: [@MurapaBytes](https://twitter.com/MurapaBytes)
+- **Instagram**: [@murapabytes](https://www.instagram.com/murapabytes/)
+- **Website**: [murapa.me](https://murapa.me)
+- **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
