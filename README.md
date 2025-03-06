@@ -27,8 +27,7 @@ I'm a self-taught software developer with a passion for creating scalable soluti
 </div>
 
 ## 📈 GitHub Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Murapa96&theme=radical" alt="GitHub Streak Stats" />
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ## 🌟 Let's Build the Future Together
 I'm always open to exciting projects, collaborations, or simply chatting about innovative tech ideas. Whether you're looking for a developer, consultant, or partner, feel free to reach out!
 
