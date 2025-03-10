@@ -1,4 +1,4 @@
-# Hello, I'm Pablo R. (murapa96) 👋
+# Welcome!
 
 > *"Talk is cheap. Show me the code." – Linus Torvalds*
 
@@ -50,3 +50,9 @@ I'm a self-taught software developer with a passion for creating scalable soluti
 - **Instagram**: [@murapabytes](https://www.instagram.com/murapabytes/)
 - **Website**: [murapa.me](https://murapa.me)
 - **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
+
+
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <p>Visitors count</p>
+  <img src="https://profile-counter.glitch.me/HusainCode/count.svg" />
+</div>
