@@ -51,33 +51,40 @@ I'm a self-taught software developer passionate about building scalable solution
 
 <!-- Projects arranged in a table with inline styles -->
 <table align="center">
+  <!-- First row of projects -->
   <tr>
-    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px;">
       <h3><a href="https://github.com/Murapa96/YoutubeNLP">YoutubeNLP</a></h3>
       <p>A Streamlit app for analyzing YouTube video comments using NLP techniques.</p>
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
-    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px;">
       <h3><a href="https://github.com/Murapa96/populpy">populpy</a></h3>
       <p>Fetches related searches for a given query from Google Trends, including peak dates and popularity scores.</p>
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
-    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px;">
       <h3><a href="https://github.com/Murapa96/ZTodo">ZTodo</a></h3>
       <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage, priority levels, categories, deadlines, and efficient search.</p>
       <img src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
     </td>
   </tr>
+  <!-- Second row of projects -->
   <tr>
-    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px;">
       <h3><a href="https://github.com/Murapa96/VsCodex">VsCodex</a> <span style="font-size:0.8em;color:#999;">(Public Archive)</span></h3>
       <p>A VSCode extension that brings features similar to the OpenAI Playground.</p>
       <img src="https://img.shields.io/badge/VSCode_Extension-blue?style=flat&logo=visual-studio-code" alt="VSCode Extension">
     </td>
-    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px;">
       <h3><a href="https://github.com/Murapa96/RapidFire">RapidFire</a></h3>
       <p>A script that enables autofire for key presses.</p>
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+    </td>
+    <td style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; width: 300px;">
+      <h3><a href="https://github.com/Murapa96/Simple-Stupid-Todo">Simple-Stupid-Todo</a></h3>
+      <p>A simple, command-line todo application written in Bash. It stores todo items in a JSON file and provides basic task management functionality. Despite being "stupid simple," it's quite powerful.</p>
+      <img src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
     </td>
   </tr>
 </table>
@@ -115,4 +122,9 @@ I'm a self-taught software developer passionate about building scalable solution
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
+</div>
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
 </div>
