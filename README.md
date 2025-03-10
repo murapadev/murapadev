@@ -78,25 +78,18 @@ If you enjoy these projects, please consider giving a ⭐ on GitHub!
 </div>
 
 ## 📬 Connect with Me
-<div align="center">
 - **GitHub**: [Murapa96](https://github.com/Murapa96)  
 - **Twitter**: [@MurapaBytes](https://twitter.com/MurapaBytes)  
 - **Instagram**: [@murapabytes](https://www.instagram.com/murapabytes/)  
 - **Website**: [murapa.me](https://murapa.me)  
 - **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
-</div>
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitor Count</p>
   <img src="https://profile-counter.glitch.me/murapa96/count.svg" alt="Profile Visitor Count" />
 </div>
 
-<!-- Fun Gimmicks -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKzJZPjdQjRkdxC/giphy.gif" alt="Coding GIF" width="200"/>
-  <p><strong>Coding is my superpower!</strong></p>
-</div>
-
+<!-- Fun Gimmicks --> 
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
 </div>
