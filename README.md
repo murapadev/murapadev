@@ -94,6 +94,7 @@ I'm a self-taught software developer passionate about building scalable solution
     </td>
   </tr>
 </table>
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Murapa96&show_icons=true&theme=radical" alt="Murapa96's GitHub Stats" />
