@@ -35,19 +35,6 @@ I'm a self-taught software developer with a passion for creating scalable soluti
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)  
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23FFD43B.svg?style=flat&logo=python&logoColor=black)  
 
----
-
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)  
-
----
-## 🔧 Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 <!-- Add more badges as needed -->
 
 ## 📊 GitHub Stats
@@ -56,10 +43,6 @@ I'm a self-taught software developer with a passion for creating scalable soluti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murapa96&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 📈 GitHub Activity
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-## 🌟 Let's Build the Future Together
-I'm always open to exciting projects, collaborations, or simply chatting about innovative tech ideas. Whether you're looking for a developer, consultant, or partner, feel free to reach out!
 
 ## 📬 Connect with Me
 - **GitHub**: [Murapa96](https://github.com/Murapa96)
