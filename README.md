@@ -5,6 +5,12 @@
 ## About Me
 I'm a self-taught software developer passionate about building scalable solutions and transforming complex challenges into actionable insights. With hands-on experience in web & mobile development, data analytics, and automation, I love using technology to solve real-world problems and unlock new possibilities.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
+  <p><strong>Coding is my superpower!</strong></p>
+</div>
+
+
 ## 🔧 Technical Expertise
 <div align="center">
 
@@ -113,10 +119,6 @@ I'm a self-taught software developer passionate about building scalable solution
 </div>
 
 <!-- Fun Gimmicks -->
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
-  <p><strong>Coding is my superpower!</strong></p>
-</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
