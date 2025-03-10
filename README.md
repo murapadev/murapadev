@@ -54,5 +54,5 @@ I'm a self-taught software developer with a passion for creating scalable soluti
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitors count</p>
-  <img src="https://profile-counter.glitch.me/HusainCode/count.svg" />
+  <img src="https://profile-counter.glitch.me/murapa96/count.svg" />
 </div>
