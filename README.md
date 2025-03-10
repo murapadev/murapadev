@@ -47,30 +47,81 @@ I'm a self-taught software developer passionate about building scalable solution
 </p>
 </div>
 
-## 📌 Pinned Projects
-<div align="center">
-
-- **[YoutubeNLP](https://github.com/Murapa96/YoutubeNLP)**  
-  *A Streamlit app for analyzing YouTube video comments using NLP techniques.*  
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-
-- **[populpy](https://github.com/Murapa96/populpy)**  
-  *Fetches related searches for a given query from Google Trends, including peak dates and popularity scores.*  
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-
-- **[ZTodo](https://github.com/Murapa96/ZTodo)**  
-  *A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage, priority levels, categories, deadlines, and efficient search capabilities.*  
-  <img src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell" />
-
-- **[VsCodex](https://github.com/Murapa96/VsCodex)** *(Public Archive)*  
-  *A VSCode extension that brings features similar to the OpenAI Playground.*  
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
-
-- **[RapidFire](https://github.com/Murapa96/RapidFire)**  
-  *A script that enables autofire for key presses.*  
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-  
+## 📌 Projects
+<!-- Begin Projects Cards -->
+<style>
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+  .project-card {
+    background: #fff;
+    border: 1px solid #e1e4e8;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-align: center;
+  }
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  .project-card h3 {
+    margin: 0;
+    font-size: 1.25em;
+    margin-bottom: 10px;
+  }
+  .project-card p {
+    font-size: 0.9em;
+    color: #586069;
+    min-height: 60px;
+  }
+  .badge {
+    margin-top: 15px;
+  }
+</style>
+<div class="projects-container">
+  <div class="project-card">
+    <h3><a href="https://github.com/Murapa96/YoutubeNLP">YoutubeNLP</a></h3>
+    <p>A Streamlit app for analyzing YouTube video comments using NLP techniques.</p>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+    </div>
+  </div>
+  <div class="project-card">
+    <h3><a href="https://github.com/Murapa96/populpy">populpy</a></h3>
+    <p>Fetches related searches for a given query from Google Trends, including peak dates and popularity scores.</p>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+    </div>
+  </div>
+  <div class="project-card">
+    <h3><a href="https://github.com/Murapa96/ZTodo">ZTodo</a></h3>
+    <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage, priority levels, categories, deadlines, and efficient search.</p>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
+    </div>
+  </div>
+  <div class="project-card">
+    <h3><a href="https://github.com/Murapa96/VsCodex">VsCodex</a> <span style="font-size:0.8em;color:#999;">(Public Archive)</span></h3>
+    <p>A VSCode extension that brings features similar to the OpenAI Playground.</p>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/VSCode_Extension-blue?style=flat&logo=visual-studio-code" alt="VSCode Extension">
+    </div>
+  </div>
+  <div class="project-card">
+    <h3><a href="https://github.com/Murapa96/RapidFire">RapidFire</a></h3>
+    <p>A script that enables autofire for key presses.</p>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
+    </div>
+  </div>
 </div>
+<!-- End Projects Cards -->
 
 ## 📊 GitHub Stats
 <div align="center">
