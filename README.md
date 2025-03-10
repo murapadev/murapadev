@@ -101,13 +101,11 @@ I'm a self-taught software developer passionate about building scalable solution
 </div>
 
 ## 📬 Connect with Me
-<div align="center">
 - **GitHub**: [Murapa96](https://github.com/Murapa96)  
 - **Twitter**: [@MurapaBytes](https://twitter.com/MurapaBytes)  
 - **Instagram**: [@murapabytes](https://www.instagram.com/murapabytes/)  
 - **Website**: [murapa.me](https://murapa.me)  
 - **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
-</div>
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitor Count</p>
