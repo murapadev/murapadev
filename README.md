@@ -83,7 +83,7 @@ I'm a self-taught software developer passionate about building scalable solution
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/VSCode_Extension-blue?style=flat&logo=visual-studio-code" alt="VSCode Extension">
     </td>
     <td style="width: 33%; max-width: 33%;vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/RapidFire">RapidFire</a></h3>
+      <h3><a href="https://github.com/Murapa96/autofire">AutoFire</a></h3>
       <p>A script that enables autofire for key presses.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
