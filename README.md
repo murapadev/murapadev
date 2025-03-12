@@ -59,17 +59,17 @@ I'm a self-taught software developer passionate about building scalable solution
 <table align="center" style="table-layout: fixed; width: 100%;">
   <!-- First row of projects -->
   <tr>
-    <td style="width: 33%;max-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+    <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
       <h3><a href="https://github.com/Murapa96/YoutubeNLP">YoutubeNLP</a></h3>
       <p>A Streamlit app for analyzing YouTube video comments using NLP techniques.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
-    <td style="width: 33%;max-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/populpy">populpy</a></h3>
+    <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+      <h3><a href="https://github.com/Murapa96/populpy">Populpy</a></h3>
       <p>Fetches related searches for a given query from Google Trends, including peak dates and popularity scores.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
-    <td style="width: 33%; max-width: 33%;vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
       <h3><a href="https://github.com/Murapa96/ZTodo">ZTodo</a></h3>
       <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage, priority levels, categories, deadlines, and efficient search.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
@@ -77,17 +77,17 @@ I'm a self-taught software developer passionate about building scalable solution
   </tr>
   <!-- Second row of projects -->
   <tr>
-    <td style="width: 33%; max-width: 33%;vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
       <h3><a href="https://github.com/Murapa96/VsCodex">VsCodex</a> <span style="font-size:0.8em;color:#999;">(Public Archive)</span></h3>
       <p>A VSCode extension that brings features similar to the OpenAI Playground.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/VSCode_Extension-blue?style=flat&logo=visual-studio-code" alt="VSCode Extension">
     </td>
-    <td style="width: 33%; max-width: 33%;vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
       <h3><a href="https://github.com/Murapa96/autofire">AutoFire</a></h3>
-      <p>A script that enables autofire for key presses.</p>
+      <p>A script that enables autofire for a key. Enable it, press the key, and leave the computer away!</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
-    <td style="width: 33%; max-width: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
+    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
       <h3><a href="https://github.com/Murapa96/Simple-Stupid-Todo">Simple-Stupid-Todo</a></h3>
       <p>A simple, command-line todo application written in Bash. It stores todo items in a JSON file and provides basic task management functionality. Despite being "stupid simple," it's quite powerful.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
