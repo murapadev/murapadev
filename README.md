@@ -71,7 +71,7 @@ I'm a self-taught software developer passionate about building scalable solution
     </td>
     <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
       <h3><a href="https://github.com/Murapa96/ZTodo">ZTodo</a></h3>
-      <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage, priority levels, categories, deadlines, and efficient search.</p>
+      <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
     </td>
   </tr>
@@ -89,7 +89,7 @@ I'm a self-taught software developer passionate about building scalable solution
     </td>
     <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
       <h3><a href="https://github.com/Murapa96/Simple-Stupid-Todo">Simple-Stupid-Todo</a></h3>
-      <p>A simple, command-line todo application written in Bash. It stores todo items in a JSON file and provides basic task management functionality. Despite being "stupid simple," it's quite powerful.</p>
+      <p>A simple, command-line todo application written in Bash. It stores todo items in a JSON file and provides basic task management functionality.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
     </td>
   </tr>
