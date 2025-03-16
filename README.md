@@ -112,6 +112,7 @@ I'm a self-taught software developer passionate about building scalable solution
 - **Instagram**: [@murapabytes](https://www.instagram.com/murapabytes/)  
 - **Website**: [murapa.me](https://murapa.me)  
 - **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
+- **Telegram**: [@murapa96](https://telegram.me/murapa96)
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitor Count</p>
