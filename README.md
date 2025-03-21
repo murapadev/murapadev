@@ -60,17 +60,17 @@ I'm a self-taught software developer passionate about building scalable solution
   <!-- First row of projects -->
   <tr>
     <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/YoutubeNLP">YoutubeNLP</a></h3>
+      <h3><a href="https://github.com/murapadev/YoutubeNLP">YoutubeNLP</a></h3>
       <p>A Streamlit app for analyzing YouTube video comments using NLP techniques.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
     <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/populpy">Populpy</a></h3>
+      <h3><a href="https://github.com/murapadev/populpy">Populpy</a></h3>
       <p>Fetches related searches for a given query from Google Trends, including peak dates and popularity scores.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
     <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/ZTodo">ZTodo</a></h3>
+      <h3><a href="https://github.com/murapadev/ZTodo">ZTodo</a></h3>
       <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
     </td>
@@ -78,17 +78,17 @@ I'm a self-taught software developer passionate about building scalable solution
   <!-- Second row of projects -->
   <tr>
     <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/VsCodex">VsCodex</a> <span style="font-size:0.8em;color:#999;">(Public Archive)</span></h3>
+      <h3><a href="https://github.com/murapadev/VsCodex">VsCodex</a> <span style="font-size:0.8em;color:#999;">(Public Archive)</span></h3>
       <p>A VSCode extension that brings features similar to the OpenAI Playground.</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/VSCode_Extension-blue?style=flat&logo=visual-studio-code" alt="VSCode Extension">
     </td>
     <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/autofire">AutoFire</a></h3>
+      <h3><a href="https://github.com/murapadev/autofire">AutoFire</a></h3>
       <p>A script that enables autofire for a key. Enable it, press the key, and leave the computer away!</p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
     </td>
     <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/Murapa96/Simple-Stupid-Todo">Simple-Stupid-Todo</a></h3>
+      <h3><a href="https://github.com/murapadev/Simple-Stupid-Todo">Simple-Stupid-Todo</a></h3>
       <p>A simple, command-line todo application written in Bash. </p>
       <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
     </td>
@@ -97,13 +97,13 @@ I'm a self-taught software developer passionate about building scalable solution
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murapa96&show_icons=true&theme=radical" alt="Murapa96's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murapa96&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murapadev&show_icons=true&theme=radical" alt="murapadev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murapadev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Murapa96&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ## 📬 Connect with Me
@@ -116,7 +116,7 @@ I'm a self-taught software developer passionate about building scalable solution
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/murapa96/count.svg" alt="Profile Visitor Count" />
+  <img src="https://profile-counter.glitch.me/murapadev/count.svg" alt="Profile Visitor Count" />
 </div>
 
 <!-- Fun Gimmicks -->
