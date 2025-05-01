@@ -10,6 +10,10 @@ I'm a self-taught software developer passionate about building scalable solution
   <p><strong>Coding is my superpower!</strong></p>
 </div>
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
+</div>
+<div align="center">
 
 ## 🔧 Technical Expertise
 <div align="center">
@@ -121,10 +125,6 @@ I'm a self-taught software developer passionate about building scalable solution
 
 <!-- Fun Gimmicks -->
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
-</div>
-<div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
