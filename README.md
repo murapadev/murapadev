@@ -7,7 +7,6 @@ I'm a self-taught software developer passionate about building scalable solution
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
-  <p><strong>Coding is my superpower!</strong></p>
 </div>
 
 <div align="center" style="margin-top: 20px;">
