@@ -110,46 +110,46 @@ I'm a self-taught software developer passionate about building scalable solution
   <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
 </div>
 
-## 📬 Connect with Me
+<p align="center"><strong>📬 Connect with Me</strong></p>
 
-<table align="center" cellspacing="8">
-  <tr>
-    <!-- ────────────── Fila 1 ────────────── -->
-    <td align="center">
-      <a href="https://github.com/Murapadev" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=" width="56" height="56" alt="GitHub"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/MurapaDev" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label=" width="56" height="56" alt="X"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/murapadev/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=" width="56" height="56" alt="Instagram"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <!-- ────────────── Fila 2 ────────────── -->
-    <td align="center">
-      <a href="https://murapa.me" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white&label=" width="56" height="56" alt="Website"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:murapabytes@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" width="56" height="56" alt="Email"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://telegram.me/murapadev" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=" width="56" height="56" alt="Telegram"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: inline-block; padding: 8px; border: 1px solid #444; border-radius: 12px;">
+  <table cellspacing="4" cellpadding="0" style="border-collapse: collapse;">
+    <tr>
+      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
+        <a href="https://github.com/Murapadev" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=" width="48" height="48" alt="GitHub"/>
+        </a>
+      </td>
+      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
+        <a href="https://twitter.com/MurapaDev" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label=" width="48" height="48" alt="X"/>
+        </a>
+      </td>
+      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
+        <a href="https://www.instagram.com/murapadev/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=" width="48" height="48" alt="Instagram"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
+        <a href="https://murapa.me" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white&label=" width="48" height="48" alt="Website"/>
+        </a>
+      </td>
+      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
+        <a href="mailto:murapabytes@gmail.com" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" width="48" height="48" alt="Email"/>
+        </a>
+      </td>
+      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
+        <a href="https://telegram.me/murapadev" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=" width="48" height="48" alt="Telegram"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <!-- Fun Gimmicks -->
