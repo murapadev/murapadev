@@ -110,12 +110,28 @@ I'm a self-taught software developer passionate about building scalable solution
 </div>
 
 ## 📬 Connect with Me
-- **GitHub**: [Murapadev](https://github.com/Murapadev)  
-- **Twitter**: [@Murapadev](https://twitter.com/MurapaDev)  
-- **Instagram**: [@murapadev](https://www.instagram.com/murapadev/)  
-- **Website**: [murapa.me](https://murapa.me)  
-- **Email**: [murapabytes@gmail.com](mailto:murapabytes@gmail.com)
-- **Telegram**: [@murapadev](https://telegram.me/murapadev)
+
+<p align="left">
+  <a href="https://github.com/Murapadev" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/MurapaDev" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/murapadev/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://murapa.me" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:murapabytes@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://telegram.me/murapadev" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitor Count</p>
@@ -127,4 +143,3 @@ I'm a self-taught software developer passionate about building scalable solution
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
-</div>
