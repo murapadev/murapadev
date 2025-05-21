@@ -112,40 +112,44 @@ I'm a self-taught software developer passionate about building scalable solution
 
 ## 📬 Connect with Me
 
-<p align="center">
-
-<!-- Row 1 -->
-<a href="https://github.com/Murapadev"  target="_blank">
-  <img height="40" alt="GitHub"
-       src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=&logoWidth=28">
-</a>
-<a href="https://twitter.com/MurapaDev" target="_blank">
-  <img height="40" alt="X"
-       src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label=&logoWidth=28">
-</a>
-<a href="https://www.instagram.com/murapadev/" target="_blank">
-  <img height="40" alt="Instagram"
-       src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=&logoWidth=28">
-</a>
-
-<br><br>
-
-<!-- Row 2 -->
-<a href="https://murapa.me"           target="_blank">
-  <img height="40" alt="Website"
-       src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white&label=&logoWidth=28">
-</a>
-<a href="mailto:murapabytes@gmail.com" target="_blank">
-  <img height="40" alt="Email"
-       src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=&logoWidth=28">
-</a>
-<a href="https://telegram.me/murapadev" target="_blank">
-  <img height="40" alt="Telegram"
-       src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=&logoWidth=28">
-</a>
-
-</p>
-
+<table align="center" cellspacing="8">
+  <tr>
+    <!-- ────────────── Fila 1 ────────────── -->
+    <td align="center">
+      <a href="https://github.com/Murapadev" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label=" width="56" height="56" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/MurapaDev" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label=" width="56" height="56" alt="X"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/murapadev/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=" width="56" height="56" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- ────────────── Fila 2 ────────────── -->
+    <td align="center">
+      <a href="https://murapa.me" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white&label=" width="56" height="56" alt="Website"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:murapabytes@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" width="56" height="56" alt="Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://telegram.me/murapadev" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=" width="56" height="56" alt="Telegram"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!-- Fun Gimmicks -->
