@@ -1,4 +1,5 @@
 #  Welcome! I'm Pablo R. 🖖
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=murapadev)
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
@@ -146,11 +147,6 @@ I'm a self-taught software developer passionate about building scalable solution
 </div>
 
 
-
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/murapadev/count.svg" alt="Profile Visitor Count" />
-</div>
 
 <!-- Fun Gimmicks -->
 
