@@ -110,6 +110,7 @@ I'm a self-taught software developer passionate about building scalable solution
 </div>
 
 ## 📬 Connect with Me
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <p align="left">
   <a href="https://github.com/Murapadev" target="_blank">
@@ -131,6 +132,7 @@ I'm a self-taught software developer passionate about building scalable solution
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+</div>
 
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
