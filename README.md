@@ -57,11 +57,15 @@
 | Project | Description | Language |
 |---------|-------------|----------|
 | [NeuralDeck](https://github.com/murapadev/NeuralDeck) | AI command center - ChatGPT, Gemini, Claude, DeepSeek | Electron/React |
-| [YoutubeNLP](https://github.com/murapadev/YoutubeNLP) | YouTube comment analysis with NLP | Python/Streamlit |
-| [Populpy](https://github.com/murapadev/Populpy) | Google Trends analyzer | Python/Streamlit |
-| [ZTodo](https://github.com/murapadev/ZTodo) | SQLite-based task manager for Zsh | Shell |
-| [GBJava](https://github.com/murapadev/GBJava) | Game Boy emulator in Java | Java |
-| [venvswitch](https://github.com/murapadev/venvswitch) | Smart venv switching for Zsh | Shell |
+| [GBJava](https://github.com/murapadev/GBJava) | Game Boy emulator made from scratch in Java | Java |
+| [YoutubeNLP](https://github.com/murapadev/YoutubeNLP) | YouTube comment analysis with NLP and visualizations | Python/Streamlit |
+| [Populpy](https://github.com/murapadev/Populpy) | Google Trends analyzer with multi-provider support | Python/Streamlit |
+| [venvswitch](https://github.com/murapadev/venvswitch) | Smart Python venv switching for Zsh | Shell |
+| [strap](https://github.com/murapadev/strap) | Lightweight C library for string & time utilities | C |
+| [ZTodo](https://github.com/murapadev/ZTodo) | SQLite-based task manager plugin for Oh-My-Zsh | Shell |
+| [background-remover](https://github.com/murapadev/background-remover) | AI-powered background removal from images | Python |
+| [ImageUpscaler](https://github.com/murapadev/ImageUpscaler) | Image upscaling using Swin2SR with GPU support | Python |
+| [face-catcher](https://github.com/murapadev/face-catcher) | AI face generation and classification with DeepFace | Python |
 
 ---
 
