@@ -1,163 +1,109 @@
-#  Welcome! I'm Pablo R. 🖖
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=murapadev)<p align="center">
-  <a href="https://ko-fi.com/F1F41KUTXB" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
-  </a>
-</p>
+<!-- 💙 Theme: Dark/Minimal -->
+<!-- 💻 Tech Stack: Python, JavaScript, Node.js, Electron, Streamlit -->
+<!-- 📍 Location: Galicia, Spain, EU -->
+<!-- 🌐 Website: murapa.dev -->
+
+<div align="center">
+
+# 👋 ¡Hola! Soy Pablo R. 🖖
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)](https://developer.mozilla.org)
+[![GitHub](https://img.shields.io/badge/GitHub-100k%2B-private-blue?style=flat&logo=github)](https://github.com/murapadev)
+[![Location](https://img.shields.io/badge/Galicia-ES-green?style=flat&logo=location)](https://murapa.dev)
+
+*Self-taught software developer passionate about building scalable solutions.*
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-## About Me
-I'm a self-taught software developer passionate about building scalable solutions and transforming complex challenges into actionable insights. With hands-on experience in web & mobile development, data analytics, and automation, I love using technology to solve real-world problems and unlock new possibilities.
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
-</div>
+## 🔧 Tech Stack
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
-</div>
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-## 🔧 Technical Expertise
-<div align="center">
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
-</p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react" alt="React Native" />
-  <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=ionic&logoColor=white" alt="Ionic" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
+### Database & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### 📊 Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%2344A833.svg?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" />
-</p>
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### 🗄️ Database Management
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+---
 
-### 🤖 Automation Tools
-<p>
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-%23FFD43B.svg?style=flat&logo=python&logoColor=black" alt="BeautifulSoup" />
-</p>
-</div>
+## 📌 Featured Projects
 
-## 📌 Projects
+| Project | Description | Language |
+|---------|-------------|----------|
+| [NeuralDeck](https://github.com/murapadev/NeuralDeck) | AI command center - ChatGPT, Gemini, Claude, DeepSeek | Electron/React |
+| [YoutubeNLP](https://github.com/murapadev/YoutubeNLP) | YouTube comment analysis with NLP | Python/Streamlit |
+| [Populpy](https://github.com/murapadev/Populpy) | Google Trends analyzer | Python/Streamlit |
+| [ZTodo](https://github.com/murapadev/ZTodo) | SQLite-based task manager for Zsh | Shell |
+| [GBJava](https://github.com/murapadev/GBJava) | Game Boy emulator in Java | Java |
+| [venvswitch](https://github.com/murapadev/venvswitch) | Smart venv switching for Zsh | Shell |
 
-<!-- Use table-layout: fixed and a fixed width to ensure consistent column sizes -->
-<table align="center" style="table-layout: fixed; width: 100%;">
-  <!-- First row of projects -->
-  <tr>
-    <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/YoutubeNLP">YoutubeNLP</a></h3>
-      <p>A Streamlit app for analyzing YouTube video comments using NLP techniques.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-    </td>
-    <td style="width: 33%;max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/populpy">Populpy</a></h3>
-      <p>Fetches related searches for a given query from Google Trends, including peak dates and popularity scores.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-    </td>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/ZTodo">ZTodo</a></h3>
-      <p>A powerful, SQLite-based task management plugin for Oh-My-Zsh featuring persistent storage.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
-    </td>
-  </tr>
-  <!-- Second row of projects -->
-  <tr>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/VsCodex">VsCodex</a> <span style="font-size:0.8em;color:#999;">(Public Archive)</span></h3>
-      <p>A VSCode extension that brings features similar to the OpenAI Playground.</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/VSCode_Extension-blue?style=flat&logo=visual-studio-code" alt="VSCode Extension">
-    </td>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/autofire">AutoFire</a></h3>
-      <p>A script that enables autofire for a key. Enable it, press the key, and leave the computer away!</p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python">
-    </td>
-    <td style="width: 33%; max-width: 33%; min-widht: 33%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; word-wrap: break-word; white-space: normal;">
-      <h3><a href="https://github.com/murapadev/Simple-Stupid-Todo">Simple-Stupid-Todo</a></h3>
-      <p>A simple, command-line todo application written in Bash. </p>
-      <img style="display: block; margin: 0 auto;" src="https://img.shields.io/badge/Shell-%23E34F26.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
-    </td>
-  </tr>
-</table>
+---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murapadev&show_icons=true&theme=radical" alt="murapadev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murapadev&layout=compact&theme=radical" alt="Top Languages" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murapadev&show_icons=true&theme=radical&hide_rank=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murapadev&layout=compact&theme=radical&count_private=true)
+
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 📬 Connect
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
+
+| Platform | Link | Status |
+|----------|------|--------|
+| 🌐 Website | [murapa.dev](https://murapa.dev) | ✅ |
+| 📸 Instagram | [@murapadev](https://www.instagram.com/murapadev) | ✅ |
+| 📱 Telegram | [@murapadev](https://telegram.me/murapadev) | ✅ |
+| 💼 LinkedIn | [pabloramos](https://linkedin.com/in/pabloramos) | ✅ |
+| 📧 Email | [murapabytes@gmail.com](mailto:murapabytes@gmail.com) | ✅ |
+
 </div>
 
-## 📬 Connect with Me
+---
 
-<div align="center" style="display: inline-block; padding: 8px; border: 1px solid #444; border-radius: 12px;">
-  <table cellspacing="4" cellpadding="0" style="border-collapse: collapse;">
-    <tr>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://github.com/Murapadev" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white&label="  alt="GitHub"/>
-        </a>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://twitter.com/MurapaDev" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label="  alt="X"/>
-        </a>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://www.instagram.com/murapadev/" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label="  alt="Instagram"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://murapa.me" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white&label="  alt="Website"/>
-        </a>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="mailto:murapabytes@gmail.com" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white&label="  alt="Email"/>
-        </a>
-      </td>
-      <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://telegram.me/murapadev" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label="  alt="Telegram"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+*⭐️ Some repos are private. Contact me for collaborations or access.*
+
 </div>
 
+---
 
-<!-- Fun Gimmicks -->
+<!-- 🌟 Support -->
+<div align="center">
 
+### ⭐️ Show some love by starring repos!
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4ade80&center=true&vCenter=true&width=300&lines=Keep+coding;Keep+learning;Stay+curious)](https://git.io/typing-svg)
 
+</div>
