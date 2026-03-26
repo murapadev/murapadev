@@ -97,7 +97,6 @@
 | 🐦 X/Twitter | [@MurapaDev](https://twitter.com/MurapaDev) | ⚠️ |
 | 📸 Instagram | [@murapadev](https://www.instagram.com/murapadev) | ✅ |
 | 📱 Telegram | [@murapadev](https://telegram.me/murapadev) | ✅ |
-| 💼 LinkedIn | [pabloramos](https://linkedin.com/in/pabloramos) | ✅ |
 | ☕ Ko-fi | [Support](https://ko-fi.com/F1F41KUTXB) | ⚠️ |
 | 📧 Email | [murapabytes@gmail.com](mailto:murapabytes@gmail.com) | ✅ |
 
