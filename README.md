@@ -35,7 +35,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
@@ -119,6 +119,6 @@
 
 ### ⭐️ Show some love by starring repos!
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4ade80&center=true&vCenter=true&width=300&lines=Keep+coding;Keep+learning;Stay+curious)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4ade80&center=true&vCenter=true&width=300&lines=Keep+coding;Keep+learning;Stay+curious)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
