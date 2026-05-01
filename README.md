@@ -73,8 +73,6 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murapadev&show_icons=true&theme=radical&hide_rank=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murapadev&layout=compact&theme=radical&count_private=true)
 
 </div>
@@ -95,20 +93,18 @@
 
 <div align="center">
 
-| Platform | Link | Status |
-|----------|------|--------|
-| 🌐 Website | [murapa.dev](https://murapa.dev) | ✅ |
-| 🐦 X/Twitter | [@MurapaDev](https://twitter.com/MurapaDev) | ⚠️ |
-| 📸 Instagram | [@murapadev](https://www.instagram.com/murapadev) | ✅ |
-| 📱 Telegram | [@murapadev](https://telegram.me/murapadev) | ✅ |
-| ☕ Ko-fi | [Support](https://ko-fi.com/F1F41KUTXB) | ⚠️ |
-| 📧 Email | [murapabytes@gmail.com](mailto:murapabytes@gmail.com) | ✅ |
+| Platform | Link | 
+|----------|------|
+| 🌐 Website | [murapa.dev](https://murapa.dev) | 
+| 🐦 X/Twitter | [@MurapaDev](https://twitter.com/MurapaDev) | 
+| 📸 Instagram | [@murapadev](https://www.instagram.com/murapadev) | 
+| 📱 Telegram | [@murapadev](https://telegram.me/murapadev) | 
+| ☕ Ko-fi | [Support](https://ko-fi.com/F1F41KUTXB) | 
+| 📧 Email | [murapabytes@gmail.com](mailto:murapabytes@gmail.com) |
 
 </div>
 
 ---
-
-*⭐️ Some repos are private. Contact me for collaborations or access.*
 
 </div>
 
